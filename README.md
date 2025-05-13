@@ -48,7 +48,7 @@ The application continuously tracks courier locations in real time, logs their s
 Once the application is running, open your browser:
 
 ```
-http://localhost:8080/swagger-ui
+http://localhost:8080/swagger-ui.html
 ```
 
 ---
