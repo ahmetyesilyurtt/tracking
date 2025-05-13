@@ -16,15 +16,16 @@ The application continuously tracks courier locations in real time, logs their s
 ## Technologies
 
 - **Java** 21  
-- **Spring Boot** 3  
+- **Spring Boot** 3 
 - **Spring Data JPA**  
 - **PostgreSQL** with **PostGIS**  
 - **Redis**  
 - **Maven**  
-- **Lombok**  
+- **Lombok**
+- **Application Event Publisher**  
 - **MapStruct**  
 - **OpenAPI** / **Swagger**  
-- **Docker** & **Docker Compose**  
+- **Docker** & **Docker Compose**  as
 
 ---
 
